@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Paul and I like to solve problems with data.
+
+I'm currently interested in:
+
+- Best practices for doing data modelling with Snowflake, BigQuery & dbt
+- Best practices for building data pipelines and doing ETL using Snowflake, GCP more generally
+- All and any other cool advances in analytics engineering and data engineering
 
 <!--
 **paulhalla/paulhalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
